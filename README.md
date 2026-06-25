@@ -31,7 +31,13 @@ An aspiring **Full-Stack Developer** and 2nd-year **Management Informatics** stu
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Madiennasaa&theme=dracula" alt="Ubai's Profile Details" width="100%" />
 </p>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madiennasaa&layout=compact&theme=dark" valign="top" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Madiennasaa&theme=dark" valign="top" height="165" />
-</p>
+<table>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madiennasaa&layout=compact&theme=dark" alt="Top Langs" />
+    </td>
+    <td width="50%" align="center" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api?username=Madiennasaa&show_icons=true&theme=dark&rank_icon=github" alt="Ubai's GitHub Stats" />
+    </td>
+  </tr>
+</table>
