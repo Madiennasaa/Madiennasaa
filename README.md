@@ -28,5 +28,5 @@ An aspiring **Full-Stack Developer** and 2nd-year **Management Informatics** stu
 
 ### 📊 GitHub Stats:
 <p align="left">
-  <img src="https://github-readme-stats.vercel.ai/api/top-langs/?username=Madiennasaa&layout=compact&theme=dark" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madiennasaa&layout=compact&theme=dark" alt="Top Langs" />
 </p>
