@@ -26,10 +26,10 @@ An aspiring **Full-Stack Developer** and 2nd-year **Management Informatics** stu
 
 ---
 
-### 📊 GitHub Stats:
+### 📊 GitHub Profile Summary:
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madiennasaa&layout=compact&theme=dark" alt="Top Langs" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Madiennasaa&theme=dracula" alt="Ubai's Profile Details" />
 </p>
 <p align="left">
-  <img src="https://metrics.lecoq.io/Madiennasaa?template=classic&base=header%2C+activity%2C+community&config.timezone=Asia%2FJakarta&theme=dark" alt="Ubai's Metrics" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madiennasaa&layout=compact&theme=dark" alt="Top Langs" />
 </p>
